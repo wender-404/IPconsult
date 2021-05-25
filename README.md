@@ -17,6 +17,4 @@
 
               ------------ credits ------------
 
-# Coded - Dreifus-404
-# image creator ~ Sysb1n
-# help with details - Sasaki
+# programmers who contributed: Dreifus-404, Sysb1n, Sasaki
