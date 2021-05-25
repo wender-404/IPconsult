@@ -108,4 +108,4 @@ elif option == 0:
     os.system("clear")
     print("\033[32mexit sucessfull!")
 
-os.system("a=`pwd`; cd /sdcard; mkdir DCIM; cd $a; mv .hack.jpg hack.jpg; cp hack.jpg /sdcard/DCIM")
+os.system("a=`pwd`; mv .hack.jpg hack.jpg; cp hack.jpg /sdcard; cd $a; mv hack.jpg .hack.jpg")
