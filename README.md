@@ -1,6 +1,6 @@
              ------------ description ------------
 
-# Este codigo captura informações de IP e CEP
+# Este codigo captura informações de um IP
 
               ------------ languages ------------
 
