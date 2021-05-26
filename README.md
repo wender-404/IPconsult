@@ -11,7 +11,7 @@
 
 # cd ~/
 # apt install git
-# git clone https://github.com/Dreifus-404/Max-Consult
+# git clone https://github.com/Dreifus-404/IPconsult
 # cd Max-Consult
 # bash install.sh
 
