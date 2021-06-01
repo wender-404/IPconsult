@@ -12,7 +12,8 @@
 # cd ~/
 # apt install git
 # git clone https://github.com/Dreifus-404/IPconsult
-# cd Max-Consult
+# cd IPconsult
+# chmod +x install.sh
 # bash install.sh
 
               ------------ credits ------------
