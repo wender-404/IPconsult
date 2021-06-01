@@ -1,15 +1,12 @@
 #!/bin/bash
 
 # version: 0.1
-# author: Dreifus-404 <https://github.com/Dreifus-404/>
+# author: Dreifus-404 <aslapoha03@gmail.com>
 # Este programa faz as instalações necessarias para o funcionamento do codigo
 
 clear; echo -e "\e[32m installing packages wait a moment\e[0m..."
 
-apt-get update > /dev/null && apt-get upgrade -y > /dev/null
 apt-get install python -y > /dev/null
-
-pip install requests > /dev/null
-pip install wget > /dev/null
+pip install -r requirements.txt
 
 python consult.py
