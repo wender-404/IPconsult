@@ -18,3 +18,4 @@
               ------------ credits ------------
 
 # programmers who contributed: Dreifus-404, Sysb1n, Sasaki
+# we are not responsible for any damage to your device.
